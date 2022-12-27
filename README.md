@@ -7,7 +7,7 @@ This is a BU Spark Project working with Boston City Council
 
 ## Team members:
 
-* Derek Dumouchel - Team Lead
+* Derek Dumouchel
 * Tian Tan
 * Zihao Shen
 * Lu Yao
