@@ -1,1 +1,1 @@
-* 'deliverable2.ipynb' file analyzes the dataset 'BusinessFunds.csv'
+* we analyse the food license and funds2.0.csv datasets.
